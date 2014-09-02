@@ -1,4 +1,4 @@
 Kaggle
 ======
 
-Code from Kaggle Competitions
+Code from Kaggle Competitions.
